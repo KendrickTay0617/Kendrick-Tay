@@ -1,2 +1,2 @@
 # My Portfolio
-Kendrick Tay
+## Hey there! I'm Kendrick Tay, nice to meet you!
