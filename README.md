@@ -1,2 +1,2 @@
-# Kendrick-Tay-Portfolio
-Kendrick Tay's Portfolio
+# My Portfolio
+Kendrick Tay
