@@ -13,7 +13,14 @@ I am a **Software Developer**
 - Major in **New Media Interactive Development**
 - Minor in **Psychology**
 
+###Fun Facts About Me
+
 I'm from **Manila, Philippines**
+I play basketball
+I love video games
+I listen to music 24/7
+I'm an early bird who gets up early to work out
+
 
 
 ## My Projects
