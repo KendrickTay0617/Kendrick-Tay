@@ -53,11 +53,14 @@ Project Link: [Shadow Blade][shadowblade]
 
 ## **Contact Me!**
 Phone: (646) 400-1473
+
 Email: ktt5693@g.rit.edu
+
 LinkedIn: [Connect with me][linkedin]!
 
 ## My Resume
 Link to PDF:
+
 Download:
 
 
