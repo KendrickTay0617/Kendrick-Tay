@@ -8,6 +8,14 @@ Oh look, it's a photo of me!
 
 <img src="https://user-images.githubusercontent.com/54646752/141914452-d59b3a22-0a04-4971-aed5-f28de2641a07.jpg" alt="My Picture" width="200">
 
+I am a **Software Developer**
+- 4th year at **Rochester Institute of Technology**
+- Major in **New Media Interactive Development**
+- Minor in **Psychology**
+
+I'm from **Manila, Philippines**
+
+
 ## My Projects
 
 ### Ranked Choice Voting
@@ -39,6 +47,15 @@ Project Link: [Pudge's Hook][pudgehook]
 
 ## Other Projects
 
+### Playlist (Arduino)
+Project Link: [Playlist][playlist]
+
+### PenPal
+Project Link: [PenPal][penpal]
+
+### Titan Trailer
+Trailer Link: [Titan - Final Trailer][titantrailer]
+
 ### Stormbreaker (3D Asset)
 Project Link: [Stormbreaker][stormbreaker]
 
@@ -50,6 +67,8 @@ Project Link: [Skull Basher][skullbasher]
 
 ### Shadow Blade (3D Asset)
 Project Link: [Shadow Blade][shadowblade]
+
+
 
 ## **Contact Me!**
 Phone: (646) 400-1473
@@ -73,6 +92,9 @@ Download:
 [recipefinder]: https://people.rit.edu/ktt5693/230/project-2/project-2.html
 [pudgehook]: https://people.rit.edu/ktt5693/230/project3/
 [casestudy]: https://docs.google.com/presentation/d/1BCYb91O0bPKnnflaRW4__xJMnzU7eNdy/edit?usp=sharing&ouid=108565474062868318203&rtpof=true&sd=true
+[playlist]: https://ktt5693projects.wordpress.com/
+[penpal]: https://www.figma.com/proto/GNUijZyWBsCRHJUxSSEJAa/Project-1%3A-Prototype?node-id=0%3A1&scaling=scale-down&page-id=0%3A1&starting-point-node-id=3%3A3&show-proto-sidebar=1
+[titantrailer]: https://youtu.be/CNdWCUJrT2s
 [stormbreaker]: https://sketchfab.com/3d-models/stormbreaker-7d639a23381845b5a1bc4ea423d52cc5
 [battlefury]: https://sketchfab.com/3d-models/battle-fury-fe54c9815b1e43a6b8aab44e4d35abf1
 [skullbasher]: https://sketchfab.com/3d-models/skull-basher-61d70caa37fb4ceb914026fd7a4c4203
