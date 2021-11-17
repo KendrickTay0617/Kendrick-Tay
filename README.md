@@ -16,12 +16,14 @@ I am a **Software Developer**
 ###Fun Facts About Me
 
 I'm from **Manila, Philippines**
+
 I play basketball
+
 I love video games
+
 I listen to music 24/7
+
 I'm an early bird who gets up early to work out
-
-
 
 ## My Projects
 
@@ -74,7 +76,6 @@ Project Link: [Skull Basher][skullbasher]
 
 ### Shadow Blade (3D Asset)
 Project Link: [Shadow Blade][shadowblade]
-
 
 
 ## **Contact Me!**
