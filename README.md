@@ -13,7 +13,7 @@ I am a **Software Developer**
 - Major in **New Media Interactive Development**
 - Minor in **Psychology**
 
-###Fun Facts About Me
+### Fun Facts About Me
 
 I'm from **Manila, Philippines**
 
@@ -86,9 +86,8 @@ Email: ktt5693@g.rit.edu
 LinkedIn: [Connect with me][linkedin]!
 
 ## My Resume
-Link to PDF:
+Download PDF: [Tay_Resume.pdf](https://github.com/KendrickTay0617/Kendrick-Tay-Portfolio/files/7559845/Tay_Resume.pdf)
 
-Download:
 
 
 [rcv]: https://g1-rcv01.herokuapp.com/
