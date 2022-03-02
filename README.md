@@ -86,7 +86,8 @@ Email: ktt5693@g.rit.edu
 LinkedIn: [Connect with me][linkedin]!
 
 ## My Resume
-Download PDF: [Tay_Resume.pdf](https://github.com/KendrickTay0617/Kendrick-Tay-Portfolio/files/7559845/Tay_Resume.pdf)
+Download PDF: [Tay_Resume.pdf](https://github.com/KendrickTay0617/Kendrick-Tay-Portfolio/files/8166012/Tay_Resume.pdf)
+
 
 
 
