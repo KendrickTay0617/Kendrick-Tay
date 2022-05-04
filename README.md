@@ -27,6 +27,9 @@ I'm an early bird who gets up early to work out
 
 ## My Projects
 
+### Coral Canopy
+Github Repository Link: [Coral Canopy][coralcanopy]
+
 ### Ranked Choice Voting
 Project Link: [Ranked Choice Voting (RCV)][rcv]
 
@@ -90,7 +93,7 @@ Download PDF: [Tay_Resume.pdf](https://github.com/KendrickTay0617/Kendrick-Tay-P
 
 
 
-
+[coralcanopy]: https://github.com/SurelyNotChase/dream-canopy
 [rcv]: https://g1-rcv01.herokuapp.com/
 [olive]: http://ist-solace.main.ad.rit.edu/~ktt5693/iste252/project-2-web-app/
 [duedate]: https://kendrick-project-1-final.herokuapp.com/
