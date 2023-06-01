@@ -95,7 +95,7 @@ Download PDF: [Tay_Resume.pdf](https://github.com/KendrickTay0617/Kendrick-Tay-P
 
 [coralcanopy]: https://github.com/SurelyNotChase/dream-canopy
 [rcv]: https://g1-rcv01.herokuapp.com/
-[olive]: http://ist-solace.main.ad.rit.edu/~ktt5693/iste252/project-2-web-app/
+[olive]: https://people.rit.edu/ktt5693/iste252/project-2-web-app/
 [duedate]: https://kendrick-project-1-final.herokuapp.com/
 [moviemixer]: https://people.rit.edu/ktt5693/330/project-3/
 [audiovisualizer]: https://people.rit.edu/ktt5693/330/project-2/
