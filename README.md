@@ -34,7 +34,7 @@ Github Repository Link: [Coral Canopy][coralcanopy]
 Project Link: [Ranked Choice Voting (RCV)][rcv]
 
 ### Olive
-Project Link: [Olive][olive]
+Project Link: [Olive][olive] (Works best on mobile, change dimensions in Chrome Dev Tools to mobile dimensions when using pc)
 
 ### WatchTrax
 Case Study: [Presentation][casestudy]
