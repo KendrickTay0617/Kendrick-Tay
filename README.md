@@ -30,17 +30,11 @@ I'm an early bird who gets up early to work out
 ### Coral Canopy
 Github Repository Link: [Coral Canopy][coralcanopy]
 
-### Ranked Choice Voting
-Project Link: [Ranked Choice Voting (RCV)][rcv]
-
 ### Olive
 Project Link: [Olive][olive] (Works best on mobile, change dimensions in Chrome Dev Tools to mobile dimensions when using pc)
 
 ### WatchTrax
 Case Study: [Presentation][casestudy]
-
-### DueDate
-Project Link: [DueDate][duedate]
 
 ### Movie Mixer
 Project Link: [Movie Mixer][moviemixer]
