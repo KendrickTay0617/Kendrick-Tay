@@ -76,9 +76,9 @@ Project Link: [Shadow Blade][shadowblade]
 
 
 ## **Contact Me!**
-Phone: (646) 400-1473
+Phone: +1 (646) 400-1473 | +63 917 820 9004
 
-Email: ktt5693@g.rit.edu
+Email: kendrick.tay0617@gmail.com | ktt5693@rit.edu
 
 LinkedIn: [Connect with me][linkedin]!
 
